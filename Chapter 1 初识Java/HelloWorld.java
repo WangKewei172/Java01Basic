@@ -1,5 +1,15 @@
 // 使用public修饰的class的名字必须与文件名保持一致！
 public class HelloWorld{
+    /*
+     * main方法是程序的入口
+     *
+     * public：公开
+     * static：静态
+     * void：返回值为空，即空返回
+     * main是方法的名字
+     *
+     * main方法为固定写法，初学者记住即可
+     */
     public static void main(String args[]){
         // System：系统。out：系统输出。println：按行打印
         System.out.println("hello world! 你好，世界！");  // 看来println自带换行符，像python的print一样
