@@ -1,7 +1,7 @@
 public class HomeWork01{
     public static void main(String args[]){
         printMyInfo();
-        System.out.println("");
+        System.out.println("66");
         printForm();
     }
     /**
